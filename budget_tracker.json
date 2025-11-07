@@ -1,0 +1,13 @@
+{
+    "initial_budget": 1000.0,
+    "expenses": [
+        {
+            "description": "Haircut",
+            "amount": 45.0
+        },
+        {
+            "description": "coffee",
+            "amount": 5.36
+        }
+    ]
+}
